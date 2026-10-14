@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "version": "v0.9B",
+  "roms_excluded": true,
+  "packages": [
+    {
+      "edition": "music",
+      "file": "Nadia_Korean_Theme_v0.9B_Patch.zip",
+      "sha256": "c66a10bbb9edad2a61e89f0039d1fea49eda23769228c51ec354308963ff6ad4",
+      "rom_sha256": "0b17580b37947a2808f600a1298c6149d23cca81acfb87deb92e5cb64ca6f18c",
+      "ips_sha256": "ae5a570609ba18179e7d2b42c05188634dd09912911a242dc7ffec26c2b60783",
+      "independent_patch_application": "passed"
+    },
+    {
+      "edition": "normal",
+      "file": "Nadia_Original_BGM_v0.9B_Patch.zip",
+      "sha256": "81eb628e6cc12d946fd05afc491009fac300b4be1de261861825b585faff89f8",
+      "rom_sha256": "a3bf5af927fd3a093c48a5d01ec85d2dc918bfeca120509b9de99f3cbcce9588",
+      "ips_sha256": "ccfafb34174cea1084dcaa7e6a23aefcf73567b21182be8d0e3a9e711bb4a0b8",
+      "independent_patch_application": "passed"
+    }
+  ]
+}
